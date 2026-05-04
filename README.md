@@ -4,10 +4,10 @@
 ## 📜 Certifications
 
 * 🏆 **Python Essentials 1**
-  👉 [View Certificate](https://github.com/Siddharth9520/Essentials-of-Data-Science/blob/main/Essentials-of-Data-Science-main/Essentials-of-Data-Science/certificates/python_essentials_1.pdf)
+  👉 [View Certificate](https://github.com/Siddharth9520/Essentials-of-Data-Science/blob/main/Essentials-of-Data-Science-main/certificates/Python%20Essentials%201.png)
 
 * 🏆 **Python Essentials 2**
-  👉 [View Certificate](https://github.com/Siddharth9520/Essentials-of-Data-Science/blob/main/Essentials-of-Data-Science-main/Essentials-of-Data-Science/certificates/python_essentials_2.pdf)
+  👉 [View Certificate](https://github.com/Siddharth9520/Essentials-of-Data-Science/blob/main/Essentials-of-Data-Science-main/certificates/Python%20Essentials%202.png)
 ---
 ## 🎥 Video Explanations
 
