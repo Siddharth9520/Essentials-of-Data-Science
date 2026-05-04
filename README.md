@@ -1,6 +1,19 @@
 # 📊 Essentials of Data Science Lab
 
 ---
+## 📜 Certifications
+
+* 🏆 **Python Essentials 1**
+  👉 [View Certificate](https://github.com/Siddharth9520/Essentials-of-Data-Science/blob/main/Essentials-of-Data-Science-main/Essentials-of-Data-Science/certificates/python_essentials_1.pdf)
+
+* 🏆 **Python Essentials 2**
+  👉 [View Certificate](https://github.com/Siddharth9520/Essentials-of-Data-Science/blob/main/Essentials-of-Data-Science-main/Essentials-of-Data-Science/certificates/python_essentials_2.pdf)
+---
+## 🎥 Video Explanations
+
+* 📺 **Nested If in Python**
+  👉 [Watch Video](https://drive.google.com/file/d/1l0hkhrL-SIGDf5ljN3gGlK9lXlBF8Zn5/view)
+---
 
 ## 🐍 Practical 01 — Python Fundamentals
 
