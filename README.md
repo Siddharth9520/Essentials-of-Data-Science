@@ -1,180 +1,94 @@
-# 📊 Essentials of Data Science Lab (2304102L)
-
-<p align="center">
-  <b>MIT Academy of Engineering</b> <br>
-  Second Year B.Tech (Computer Engineering) <br>
-  Academic Year 2025–2026
-</p>
+# 📊 Essentials of Data Science Lab
 
 ---
 
-## 🚀 Overview
+## 🐍 Practical 01 — Python Fundamentals
 
-This repository contains all practical assignments, lab work, and self-study tasks for the **Essentials of Data Science Lab**.
+### 📝 Lab Assignments
 
-🎯 Focus Areas:
-
-* Python Programming
-* Data Structures
-* NumPy
-* Pandas
-* Data Visualization
+| Problem                | File                                                                                 |
+| ---------------------- | ------------------------------------------------------------------------------------ |
+| Student grading system | [lab_01_grades.py](./Essentials-of-Data-Science/Practical_01/lab_01_grades.py)       |
+| Fibonacci (recursion)  | [lab_02_fibonacci.py](./Essentials-of-Data-Science/Practical_01/lab_02_fibonacci.py) |
+| Pattern printing       | [lab_03_patterns.py](./Essentials-of-Data-Science/Practical_01/lab_03_patterns.py)   |
 
 ---
 
-## 📂 Repository Structure
+### 🛠 Practice Assignments
 
-```
-Essentials-of-Data-Science/
-│
-├── Practical_01/
-├── Practical_02/
-├── numpy_operations.ipynb
-├── pandas_operations.ipynb
-├── matplotlib_operations.ipynb
-├── sales_data (1).csv
-├── titanic.csv
-└── certificates/
-```
+| Problem              | File                                                                                                     |
+| -------------------- | -------------------------------------------------------------------------------------------------------- |
+| Momentum calculation | [practice_01_momentum.py](./Essentials-of-Data-Science/Practical_01/practice_01_momentum.py)             |
+| Conditional logic    | [practice_02_conditions.py](./Essentials-of-Data-Science/Practical_01/practice_02_conditions.py)         |
+| Data transformation  | [practice_03_transformation.py](./Essentials-of-Data-Science/Practical_01/practice_03_transformation.py) |
+| Reverse number       | [practice_04_reverse.py](./Essentials-of-Data-Science/Practical_01/practice_04_reverse.py)               |
+
+---
+
+### 📚 Self Study
+
+| Problem            | File                                                                                           |
+| ------------------ | ---------------------------------------------------------------------------------------------- |
+| Statistics program | [self_study_statistics.py](./Essentials-of-Data-Science/Practical_01/self_study_statistics.py) |
+
+---
+
+## 📦 Practical 02 — Data Structures
+
+### 📝 Lab Assignments
+
+| Problem         | File                                                                                             |
+| --------------- | ------------------------------------------------------------------------------------------------ |
+| Linear Search   | [lab_01_linear_search.py](./Essentials-of-Data-Science/Practical_02/lab_01_linear_search.py)     |
+| Cricket captain | [lab_02_cricket_captain.py](./Essentials-of-Data-Science/Practical_02/lab_02_cricket_captain.py) |
+
+---
+
+### 🛠 Practice Assignments
+
+| Problem               | File                                                                                           |
+| --------------------- | ---------------------------------------------------------------------------------------------- |
+| List & Dictionary ops | [practice_01_list_dict.py](./Essentials-of-Data-Science/Practical_02/practice_01_list_dict.py) |
+
+---
+
+### 📚 Self Study
+
+| Problem           | File                                                                                       |
+| ----------------- | ------------------------------------------------------------------------------------------ |
+| Marks calculation | [self_study_01_marks.py](./Essentials-of-Data-Science/Practical_02/self_study_01_marks.py) |
+| Tuple operations  | [self_study_02_tuple.py](./Essentials-of-Data-Science/Practical_02/self_study_02_tuple.py) |
+
+---
+
+## 🔢 Practical 03 — NumPy
+
+📓 Notebook:
+👉 [Open Notebook](./Essentials-of-Data-Science/numpy_operations.ipynb)
+
+---
+
+## 🐼 Practical 04 — Pandas
+
+📓 Notebook:
+👉 [Open Notebook](./Essentials-of-Data-Science/pandas_operations.ipynb)
+
+---
+
+## 📈 Practical 05 — Matplotlib
+
+📓 Notebook:
+👉 [Open Notebook](./Essentials-of-Data-Science/mathplotlib_operations.ipynb)
 
 ---
 
 ## 📜 Certifications
 
-| Certificate         | Issuer | Link                                           |
-| ------------------- | ------ | ---------------------------------------------- |
-| Python Essentials 1 | Cisco  | [View](./certificates/python_essentials_1.pdf) |
-| Python Essentials 2 | Cisco  | [View](./certificates/python_essentials_2.pdf) |
+* [Python Essentials 1](./certificates/python_essentials_1.pdf)
+* [Python Essentials 2](./certificates/python_essentials_2.pdf)
 
 ---
 
-## 🎥 Video Explanations
+## 🎥 Video
 
-| Topic     | Description                          | Link                                                                            |
-| --------- | ------------------------------------ | ------------------------------------------------------------------------------- |
-| Nested If | Python conditional logic explanation | [Watch](https://drive.google.com/file/d/1l0hkhrL-SIGDf5ljN3gGlK9lXlBF8Zn5/view) |
-
----
-
-# 🐍 Practical 01 — Python Fundamentals
-
-### 📘 Lab Files
-
-| File                  | Description               |
-| --------------------- | ------------------------- |
-| `lab_01_grades.py`    | Student grading system    |
-| `lab_02_fibonacci.py` | Fibonacci using recursion |
-| `lab_03_patterns.py`  | Pattern printing          |
-
-### 🛠 Practice Files
-
-| File                            | Description          |
-| ------------------------------- | -------------------- |
-| `practice_01_momentum.py`       | Momentum calculation |
-| `practice_02_conditions.py`     | Conditional logic    |
-| `practice_03_transformation.py` | Data transformation  |
-| `practice_04_reverse.py`        | Reverse number       |
-
----
-
-# 📦 Practical 02 — Data Structures
-
-| File                        | Description                  |
-| --------------------------- | ---------------------------- |
-| `practice_01_list_dict.py`  | List & Dictionary operations |
-| `lab_01_linear_search.py`   | Linear search                |
-| `lab_02_cricket_captain.py` | Dictionary problem           |
-| `self_study_01_marks.py`    | Marks calculation            |
-| `self_study_02_tuple.py`    | Tuple operations             |
-
----
-
-# 🔢 Practical 03 — NumPy
-
-📓 Notebook:
-👉 `numpy_operations.ipynb`
-
-### Topics Covered:
-
-* Array operations
-* Matrix operations
-* Broadcasting
-* Sorting & Searching
-
----
-
-# 🐼 Practical 04 — Pandas
-
-📓 Notebook:
-👉 `pandas_operations.ipynb`
-
-### Topics Covered:
-
-* DataFrames
-* Data cleaning
-* Aggregations
-* Real dataset analysis
-
----
-
-# 📈 Practical 05 — Data Visualization
-
-📓 Notebook:
-👉 `matplotlib_operations.ipynb`
-
-### Topics Covered:
-
-* Bar chart
-* Line chart
-* Pie chart
-* Histogram
-
----
-
-## ⚙️ How to Run
-
-### Clone Repository
-
-```bash
-git clone https://github.com/Siddharth9520/Essentials-of-Data-Science.git
-cd Essentials-of-Data-Science
-```
-
-### Install Dependencies
-
-```bash
-pip install numpy pandas matplotlib jupyter
-```
-
-### Run Files
-
-```bash
-python Practical_01/lab_01_grades.py
-```
-
----
-
-## 🎯 Course Outcomes
-
-| CO  | Description        |
-| --- | ------------------ |
-| CO1 | Python Programming |
-| CO2 | Data Structures    |
-| CO3 | NumPy              |
-| CO4 | Pandas             |
-| CO5 | Data Visualization |
-
----
-
-## 🌟 Highlights
-
-✔ Clean folder structure
-✔ Real-world datasets
-✔ Google Colab integration
-✔ Practical-focused learning
-
----
-
-<p align="center">
-  ⭐ If you found this helpful, consider starring the repo!
-</p>
+* [Watch Explanation](https://drive.google.com/file/d/1l0hkhrL-SIGDf5ljN3gGlK9lXlBF8Zn5/view)
