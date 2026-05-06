@@ -11,8 +11,8 @@
 ---
 ## 🎥 Video Explanations
 
-* 📺 **Nested If in Python**
-  👉 [Watch Video](https://drive.google.com/file/d/1l0hkhrL-SIGDf5ljN3gGlK9lXlBF8Zn5/view)
+* 📺 **python dictionary and dictionary operations**
+  👉 [Watch Video](https://youtu.be/SWnCOev74Hc)
 ---
 
 ## 🐍 Practical 01 — Python Fundamentals
